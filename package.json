@@ -1,8 +1,8 @@
 {
   "name": "react-native-custom-datetimepicker",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Date and time picker for react-native",
-  "main": "index.js",
+  "main": "datepicker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,5 +25,44 @@
   "bugs": {
     "url": "https://github.com/rubbishCoder/react-native-custom-datetimepicker/issues"
   },
-  "homepage": "https://github.com/rubbishCoder/react-native-custom-datetimepicker#readme"
+  "homepage": "https://github.com/rubbishCoder/react-native-custom-datetimepicker#readme",
+  "dependencies": {
+    "moment": "2.x.x"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.2",
+    "babel-eslint": "^7.2.3",
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "coveralls": "^2.11.9",
+    "cz-conventional-changelog": "^1.2.0",
+    "enzyme": "^3.1.0",
+    "enzyme-adapter-react-16": "^1.0.2",
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^7.0.1",
+    "inquirer": "^3.0.5",
+    "jest": "21.2.1",
+    "jsdom": "^11.3.0",
+    "jsdom-global": "^3.0.2",
+    "pre-commit": "^1.1.3",
+    "react": "16.0.0-beta.5",
+    "react-dom": "16.0.0-beta.5",
+    "react-native": "0.49.3",
+    "react-test-renderer": "16.0.0-beta.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "jest": {
+    "preset": "react-native",
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "tools/"
+    ]
+  },
+  "pre-commit": [
+    "lint"
+  ]
 }
