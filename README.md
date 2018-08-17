@@ -4,7 +4,7 @@ react native datePicker component for both Android and IOS, using DatePickerAndr
 ## Install
 
 ```bash
-npm install react-native-custom-dateTimePicker --save
+npm install react-native-custom-datetimepicker --save
 ```
 
 Or using [react-native-ui-xg](https://github.com/xgfe/react-native-ui-xg), our react-naitve ui kit.
