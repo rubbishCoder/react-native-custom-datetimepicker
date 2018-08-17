@@ -1,0 +1,29 @@
+{
+  "name": "react-native-custom-datetimepicker",
+  "version": "1.0.0",
+  "description": "Date and time picker for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rubbishCoder@github.com/rubbishCoder/react-native-custom-dateTimePicker.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "date",
+    "time",
+    "datetime",
+    "datepicker",
+    "timepicker",
+    "datetimepicker"
+  ],
+  "author": "pragadeesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubbishCoder/react-native-custom-dateTimePicker/issues"
+  },
+  "homepage": "https://github.com/rubbishCoder/react-native-custom-dateTimePicker#readme"
+}
