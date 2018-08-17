@@ -1,212 +1,212 @@
 <a name="1.6.0"></a>
-# [1.6.0](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.5.1...v1.6.0) (2017-06-12)
+# [1.6.0](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.5.1...v1.6.0) (2017-06-12)
 
 ### Features
 
-* **datepicker:** adding testIds to elements ([#138](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/138)
-* **datepicker:** add `hideText` property to hide the Date Text ([#127](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/127)
-* **datepicker:** add `TouchableComponent` property to support custom touchable components ([#128](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/128)
+* **datepicker:** adding testIds to elements ([#138](https://github.com/xgfe/react-native-custom-datetimepicker/issues/138)
+* **datepicker:** add `hideText` property to hide the Date Text ([#127](https://github.com/xgfe/react-native-custom-datetimepicker/issues/127)
+* **datepicker:** add `TouchableComponent` property to support custom touchable components ([#128](https://github.com/xgfe/react-native-custom-datetimepicker/issues/128)
 
 
 <a name="1.5.1"></a>
-## [1.5.1](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.5.0...v1.5.1) (2017-05-16)
+## [1.5.1](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.5.0...v1.5.1) (2017-05-16)
 
 
 ### Features
 
-* **datepicker:** change datepicker switch gap timeout to 200ms ([5b6e78f](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/5b6e78f))
+* **datepicker:** change datepicker switch gap timeout to 200ms ([5b6e78f](https://github.com/xgfe/react-native-custom-datetimepicker/commit/5b6e78f))
 
 ### Bug Fixes
 
-* **datepicker:** Fix onDateChange for ios ([#123](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/123), [e4e2193](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/e4e2193))
+* **datepicker:** Fix onDateChange for ios ([#123](https://github.com/xgfe/react-native-custom-datetimepicker/issues/123), [e4e2193](https://github.com/xgfe/react-native-custom-datetimepicker/commit/e4e2193))
 
 
 <a name="1.5.0"></a>
-# [1.5.0](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.4.7...v1.5.0) (2017-05-15)
+# [1.5.0](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.4.7...v1.5.0) (2017-05-15)
 
 
 ### Features
 
-* **datepicker:** Add onPressMask prop for ios ([#120](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/120), [09ecdf8](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/09ecdf8))
-* **datepicker:** Ability to pass icon component with `iconComponent` property ([#124](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/124), [35150ed](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/35150ed))
+* **datepicker:** Add onPressMask prop for ios ([#120](https://github.com/xgfe/react-native-custom-datetimepicker/issues/120), [09ecdf8](https://github.com/xgfe/react-native-custom-datetimepicker/commit/09ecdf8))
+* **datepicker:** Ability to pass icon component with `iconComponent` property ([#124](https://github.com/xgfe/react-native-custom-datetimepicker/issues/124), [35150ed](https://github.com/xgfe/react-native-custom-datetimepicker/commit/35150ed))
 
 ### Bug Fixes
 
-* **datepicker:** Fix onCloseModal for android ([#122](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/122), [ba55c06](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/ba55c06))
+* **datepicker:** Fix onCloseModal for android ([#122](https://github.com/xgfe/react-native-custom-datetimepicker/issues/122), [ba55c06](https://github.com/xgfe/react-native-custom-datetimepicker/commit/ba55c06))
 
 
 <a name="1.4.7"></a>
-## [1.4.7](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.4.6...v1.4.7) (2017-04-13)
+## [1.4.7](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.4.6...v1.4.7) (2017-04-13)
 
 
 ### Bug Fixes
 
-* **datepicker:** fix `androidMode` prop pass bug ([#111](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/111), [095f756](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/095f756))
+* **datepicker:** fix `androidMode` prop pass bug ([#111](https://github.com/xgfe/react-native-custom-datetimepicker/issues/111), [095f756](https://github.com/xgfe/react-native-custom-datetimepicker/commit/095f756))
 
 
 <a name="1.4.6"></a>
-## [1.4.6](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.4.5...v1.4.6) (2017-04-05)
+## [1.4.6](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.4.5...v1.4.6) (2017-04-05)
 
 
 ### Features
 
-* **datepicker:** add `androidMode` property for DatePickerAndroid & TimePickerAndroid ([be30731](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/be30731))
+* **datepicker:** add `androidMode` property for DatePickerAndroid & TimePickerAndroid ([be30731](https://github.com/xgfe/react-native-custom-datetimepicker/commit/be30731))
 
 
 
 <a name="1.4.5"></a>
-## [1.4.5](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.4.4...v1.4.5) (2017-03-21)
+## [1.4.5](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.4.4...v1.4.5) (2017-03-21)
 
 
 ### Bug Fixes
 
-* **datepicker:** fix `date` prop change not invoke state change bug ([#93](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/93), [3c8099b](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/3c8099b))
+* **datepicker:** fix `date` prop change not invoke state change bug ([#93](https://github.com/xgfe/react-native-custom-datetimepicker/issues/93), [3c8099b](https://github.com/xgfe/react-native-custom-datetimepicker/commit/3c8099b))
 
 
 
 <a name="1.4.4"></a>
-## [1.4.4](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.4.3...v1.4.4) (2017-02-06)
+## [1.4.4](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.4.3...v1.4.4) (2017-02-06)
 
 
 ### Features
 
-* **datepicker:** Added two new properties: onOpenModal and onCloseModal ([#77](https://github.com/xgfe/react-native-custom-dateTimePicker/pull/77), [846ae35](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/846ae35))
-* **Datepicker:** Add animation on datepicker dismiss ([#76](https://github.com/xgfe/react-native-custom-dateTimePicker/pull/76), [fdfcc21](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/fdfcc21))
+* **datepicker:** Added two new properties: onOpenModal and onCloseModal ([#77](https://github.com/xgfe/react-native-custom-datetimepicker/pull/77), [846ae35](https://github.com/xgfe/react-native-custom-datetimepicker/commit/846ae35))
+* **Datepicker:** Add animation on datepicker dismiss ([#76](https://github.com/xgfe/react-native-custom-datetimepicker/pull/76), [fdfcc21](https://github.com/xgfe/react-native-custom-datetimepicker/commit/fdfcc21))
 
 ### Bug Fixes
 
-* **datepicker:** fix datepicker can't  open in landscape mode bug ([#28](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/28), [3a9df99](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/3a9df99))
+* **datepicker:** fix datepicker can't  open in landscape mode bug ([#28](https://github.com/xgfe/react-native-custom-datetimepicker/issues/28), [3a9df99](https://github.com/xgfe/react-native-custom-datetimepicker/commit/3a9df99))
 
 
 
 <a name="1.4.3"></a>
-## [1.4.3](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.4.1...v1.4.3) (2016-12-13)
+## [1.4.3](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.4.1...v1.4.3) (2016-12-13)
 
 
 ### Bug Fixes
 
-* **datepicker:** fix `disabled` props change not update bug [#66](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/66) ([7579dc9](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/7579dc9)), closes [#66](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/66)
-* **datepicker:** fix is24Hour flag can't be specified bug ([c320e56](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/c320e56)), closes [#69](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/69)
+* **datepicker:** fix `disabled` props change not update bug [#66](https://github.com/xgfe/react-native-custom-datetimepicker/issues/66) ([7579dc9](https://github.com/xgfe/react-native-custom-datetimepicker/commit/7579dc9)), closes [#66](https://github.com/xgfe/react-native-custom-datetimepicker/issues/66)
+* **datepicker:** fix is24Hour flag can't be specified bug ([c320e56](https://github.com/xgfe/react-native-custom-datetimepicker/commit/c320e56)), closes [#69](https://github.com/xgfe/react-native-custom-datetimepicker/issues/69)
 
 
 ### Reverts
 
-* **datepicker:** revert responder prevert func temporary [#47](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/47) [#50](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/50) ([5b9f60c](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/5b9f60c))
+* **datepicker:** revert responder prevert func temporary [#47](https://github.com/xgfe/react-native-custom-datetimepicker/issues/47) [#50](https://github.com/xgfe/react-native-custom-datetimepicker/issues/50) ([5b9f60c](https://github.com/xgfe/react-native-custom-datetimepicker/commit/5b9f60c))
 
 
 
 <a name="1.4.1"></a>
-## [1.4.1](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.4.0...v1.4.1) (2016-11-03)
+## [1.4.1](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.4.0...v1.4.1) (2016-11-03)
 
 
 ### Bug Fixes
 
-* **datepicker:** fix btn not work in 7p bug [#50](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/50) ([8285d2d](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/8285d2d)), closes [#50](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/50)
+* **datepicker:** fix btn not work in 7p bug [#50](https://github.com/xgfe/react-native-custom-datetimepicker/issues/50) ([8285d2d](https://github.com/xgfe/react-native-custom-datetimepicker/commit/8285d2d)), closes [#50](https://github.com/xgfe/react-native-custom-datetimepicker/issues/50)
 
 
 
 <a name="1.4.0"></a>
-# [1.4.0](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.3.2...v1.4.0) (2016-10-31)
+# [1.4.0](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.3.2...v1.4.0) (2016-10-31)
 
 
 ### Features
 
-* **datepicker:** default prevent manual panResonder when mdal shown ([6d1c1d0](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/6d1c1d0))
-* **Datepicker:** support minuteInterval property in ios [#46](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/46) ([3ae69a4](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/3ae69a4))
+* **datepicker:** default prevent manual panResonder when mdal shown ([6d1c1d0](https://github.com/xgfe/react-native-custom-datetimepicker/commit/6d1c1d0))
+* **Datepicker:** support minuteInterval property in ios [#46](https://github.com/xgfe/react-native-custom-datetimepicker/issues/46) ([3ae69a4](https://github.com/xgfe/react-native-custom-datetimepicker/commit/3ae69a4))
 
 
 
 <a name="1.3.2"></a>
-## [1.3.2](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.3.1...v1.3.2) (2016-08-02)
+## [1.3.2](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.3.1...v1.3.2) (2016-08-02)
 
 
 ### Bug Fixes
 
-* **datepicker:** fix default date bug without selecting ([b08fb7e](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/b08fb7e))
+* **datepicker:** fix default date bug without selecting ([b08fb7e](https://github.com/xgfe/react-native-custom-datetimepicker/commit/b08fb7e))
 
 
 
 <a name="1.3.1"></a>
-## [1.3.1](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.3.0...v1.3.1) (2016-07-25)
+## [1.3.1](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.3.0...v1.3.1) (2016-07-25)
 
 
 ### Features
 
-* **datepicker:** add placeholder when this.props.date is falsy([1430f06](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/1430f06906906d408217bae8183395969f3cf51f))
+* **datepicker:** add placeholder when this.props.date is falsy([1430f06](https://github.com/xgfe/react-native-custom-datetimepicker/commit/1430f06906906d408217bae8183395969f3cf51f))
 
 ### Refactor
 
-* **datepicker:** refactor datepicker with official ES6 Classes pattern([fb5f6e2](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/fb5f6e2))
+* **datepicker:** refactor datepicker with official ES6 Classes pattern([fb5f6e2](https://github.com/xgfe/react-native-custom-datetimepicker/commit/fb5f6e2))
 
 <a name="1.3.0"></a>
-# [1.3.0](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.2.2...v1.3.0) (2016-07-11)
+# [1.3.0](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.2.2...v1.3.0) (2016-07-11)
 
 
 ### Bug Fixes
 
-* **datepicker:** fix the DatepickerIOS align bug above 0.28.0 with the removing of width ([b51b9ca](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/b51b9ca))
-* **readme:** fix readme gif img   [#17](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/17) ([49e310e](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/49e310e)), closes [#17](https://github.com/xgfe/react-native-custom-dateTimePicker/issues/17)
+* **datepicker:** fix the DatepickerIOS align bug above 0.28.0 with the removing of width ([b51b9ca](https://github.com/xgfe/react-native-custom-datetimepicker/commit/b51b9ca))
+* **readme:** fix readme gif img   [#17](https://github.com/xgfe/react-native-custom-datetimepicker/issues/17) ([49e310e](https://github.com/xgfe/react-native-custom-datetimepicker/commit/49e310e)), closes [#17](https://github.com/xgfe/react-native-custom-datetimepicker/issues/17)
 
 ### Breaking Change
 
-* can't be center automatic below 0.28.0([b51b9ca](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/b51b9ca)).
+* can't be center automatic below 0.28.0([b51b9ca](https://github.com/xgfe/react-native-custom-datetimepicker/commit/b51b9ca)).
 
 <a name="1.2.2"></a>
-## [1.2.2](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.2.1...v1.2.2) (2016-06-22)
+## [1.2.2](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.2.1...v1.2.2) (2016-06-22)
 
 
 ### Features
 
-* **datepicker:** add supoort of `showIcon` property ([f274179](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/f274179))
+* **datepicker:** add supoort of `showIcon` property ([f274179](https://github.com/xgfe/react-native-custom-datetimepicker/commit/f274179))
 
 
 
 <a name="1.2.1"></a>
-## [1.2.1](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.2.0...v1.2.1) (2016-05-19)
+## [1.2.1](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.2.0...v1.2.1) (2016-05-19)
 
 
 ### Bug Fixes
 
-* **datepicker:** fix datepicker Modal adaptation with different width on ios([b3234bd](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/b3234bd))
+* **datepicker:** fix datepicker Modal adaptation with different width on ios([b3234bd](https://github.com/xgfe/react-native-custom-datetimepicker/commit/b3234bd))
 
 
 
 <a name="1.2.0"></a>
-# [1.2.0](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.1.0...v1.2.0) (2016-05-17)
+# [1.2.0](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.1.0...v1.2.0) (2016-05-17)
 
 ### Breaking Change
 
-* Upgrade Requiring React API, Requiring from react-native is now deprecated. Work after 0.24.([53b0846](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/53b0846))
+* Upgrade Requiring React API, Requiring from react-native is now deprecated. Work after 0.24.([53b0846](https://github.com/xgfe/react-native-custom-datetimepicker/commit/53b0846))
 
 <a name="1.1.0"></a>
-# [1.1.0](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.0.3...v1.1.0) (2016-05-06)
+# [1.1.0](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.0.3...v1.1.0) (2016-05-06)
 
 
 ### Features
 
-* **datepicker:** add support for custom btn text([1bbd66e](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/1bbd66e))
-* **datepicker:** add support for custom icon([7ffbe43](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/7ffbe43))
-* **datepicker:** add support for custom styles with customStyles property([cb254e4](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/cb254e4))
+* **datepicker:** add support for custom btn text([1bbd66e](https://github.com/xgfe/react-native-custom-datetimepicker/commit/1bbd66e))
+* **datepicker:** add support for custom icon([7ffbe43](https://github.com/xgfe/react-native-custom-datetimepicker/commit/7ffbe43))
+* **datepicker:** add support for custom styles with customStyles property([cb254e4](https://github.com/xgfe/react-native-custom-datetimepicker/commit/cb254e4))
 
 
 
 <a name="1.0.3"></a>
-## [1.0.3](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.0.2...v1.0.3) (2016-04-27)
+## [1.0.3](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.0.2...v1.0.3) (2016-04-27)
 
 
 ### Features
 
-* **datepicker:** optimize the animation of datepicker, and add support for duration property([91fa55c](https://github.com/xgfe/react-native-custom-dateTimePicker/commit/91fa55c))
+* **datepicker:** optimize the animation of datepicker, and add support for duration property([91fa55c](https://github.com/xgfe/react-native-custom-datetimepicker/commit/91fa55c))
 
 
 
 <a name="1.0.2"></a>
-## [1.0.2](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.0.1...v1.0.2) (2016-04-26)
+## [1.0.2](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.0.1...v1.0.2) (2016-04-26)
 
 
 
 <a name="1.0.1"></a>
-## [1.0.1](https://github.com/xgfe/react-native-custom-dateTimePicker/compare/v1.0.0...v1.0.1) (2016-04-26)
+## [1.0.1](https://github.com/xgfe/react-native-custom-datetimepicker/compare/v1.0.0...v1.0.1) (2016-04-26)
 
 
 

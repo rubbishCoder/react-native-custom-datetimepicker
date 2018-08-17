@@ -36,7 +36,7 @@ class datepicker extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to react-native-custom-dateTimePicker example!
+          Welcome to react-native-custom-datetimepicker example!
         </Text>
         <DatePicker
           style={{width: 200}}

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://rubbishCoder@github.com/rubbishCoder/react-native-custom-dateTimePicker.git"
+    "url": "git+https://rubbishCoder@github.com/rubbishCoder/react-native-custom-datetimepicker.git"
   },
   "keywords": [
     "react-native",
@@ -23,7 +23,7 @@
   "author": "pragadeesh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rubbishCoder/react-native-custom-dateTimePicker/issues"
+    "url": "https://github.com/rubbishCoder/react-native-custom-datetimepicker/issues"
   },
-  "homepage": "https://github.com/rubbishCoder/react-native-custom-dateTimePicker#readme"
+  "homepage": "https://github.com/rubbishCoder/react-native-custom-datetimepicker#readme"
 }

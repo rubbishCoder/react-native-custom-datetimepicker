@@ -1,10 +1,10 @@
-# react-native-custom-dateTimePicker [![Build Status](https://travis-ci.org/xgfe/react-native-custom-dateTimePicker.svg?branch=master)](https://travis-ci.org/xgfe/react-native-custom-dateTimePicker) [![Coverage Status](https://coveralls.io/repos/github/xgfe/react-native-custom-dateTimePicker/badge.svg?branch=master)](https://coveralls.io/github/xgfe/react-native-custom-dateTimePicker?branch=master) [![Monthly download](https://img.shields.io/npm/dm/react-native-custom-dateTimePicker.svg)](https://img.shields.io/npm/dm/react-native-custom-dateTimePicker.svg) [![Total downloads](https://img.shields.io/npm/dt/react-native-custom-dateTimePicker.svg)](https://img.shields.io/npm/dt/react-native-custom-dateTimePicker.svg)
+# react-native-custom-datetimepicker [![Build Status](https://travis-ci.org/xgfe/react-native-custom-datetimepicker.svg?branch=master)](https://travis-ci.org/xgfe/react-native-custom-datetimepicker) [![Coverage Status](https://coveralls.io/repos/github/xgfe/react-native-custom-datetimepicker/badge.svg?branch=master)](https://coveralls.io/github/xgfe/react-native-custom-datetimepicker?branch=master) [![Monthly download](https://img.shields.io/npm/dm/react-native-custom-datetimepicker.svg)](https://img.shields.io/npm/dm/react-native-custom-datetimepicker.svg) [![Total downloads](https://img.shields.io/npm/dt/react-native-custom-datetimepicker.svg)](https://img.shields.io/npm/dt/react-native-custom-datetimepicker.svg)
 react native datePicker component for both Android and IOS, using DatePickerAndroid, TimePickerAndroid and DatePickerIOS
 
 ## Install
 
 ```bash
-npm install react-native-custom-dateTimePicker --save
+npm install react-native-custom-datetimepicker --save
 ```
 
 Or using [react-native-ui-xg](https://github.com/xgfe/react-native-ui-xg), our react-naitve ui kit.
@@ -14,17 +14,17 @@ npm install react-native-ui-xg --save
 ```
 
 ## Example
-Check [index.android.js](https://github.com/xgfe/react-native-custom-dateTimePicker/blob/master/index.android.js) in the Example.
+Check [index.android.js](https://github.com/xgfe/react-native-custom-datetimepicker/blob/master/index.android.js) in the Example.
 
-![android](http://xgfe.github.io/react-native-custom-dateTimePicker/img/react-native-custom-dateTimePicker-android.gif)
-![ios](http://xgfe.github.io/react-native-custom-dateTimePicker/img/react-native-custom-dateTimePicker-ios.gif)
+![android](http://xgfe.github.io/react-native-custom-datetimepicker/img/react-native-custom-datetimepicker-android.gif)
+![ios](http://xgfe.github.io/react-native-custom-datetimepicker/img/react-native-custom-datetimepicker-ios.gif)
 
 ## Usage
 
 ```javascript
 
 import React, { Component } from 'react'
-import DatePicker from 'react-native-custom-dateTimePicker'
+import DatePicker from 'react-native-custom-datetimepicker'
 
 export default class MyDatePicker extends Component {
   constructor(props){
@@ -63,7 +63,7 @@ export default class MyDatePicker extends Component {
 }
 ```
 
-You can check [index.js](https://github.com/xgfe/react-native-custom-dateTimePicker/blob/master/index.android.js) in the Example for detail.
+You can check [index.js](https://github.com/xgfe/react-native-custom-datetimepicker/blob/master/index.android.js) in the Example for detail.
 
 ## Properties
 
