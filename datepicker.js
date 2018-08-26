@@ -345,7 +345,7 @@ class DatePicker extends Component {
 
     return (
       <TouchableComponent
-        style={[Style.dateTouch, style, !this.props.removeUnderline ? { borderBottomWidth: 1 } : {}]}
+        style={[Style.dateTouch, style, !this.props.removeUnderline ? { borderBottomWidth: 1 } : { borderBottomWidth: 0 }]}
         underlayColor={'transparent'}
         onPress={this.onPressDate}
         testID={testID}
