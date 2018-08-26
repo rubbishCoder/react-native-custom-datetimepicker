@@ -2,8 +2,7 @@ import { StyleSheet } from 'react-native';
 
 let style = StyleSheet.create({
   dateTouch: {
-    width: "100%",
-    borderBottomWidth: 1,
+    width: "100%"
   },
   dateTouchBody: {
     flexDirection: 'row',
