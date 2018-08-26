@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-datetimepicker",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Date and time picker for react-native",
   "main": "datepicker.js",
   "scripts": {

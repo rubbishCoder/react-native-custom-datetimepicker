@@ -373,7 +373,7 @@ class DatePicker extends Component {
               <TouchableComponent
                 style={Style.datePickerMask}
                 activeOpacity={1}
-                underlayColor={'#00000077'}
+                underlayColor={this.props.underlayColor ? this.props.underlayColor : '#00000077'}
                 onPress={this.onPressMask}
               >
                 <TouchableComponent
